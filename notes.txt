@@ -1,0 +1,12 @@
+Made this file to note down some points
+
+Step 1 : i created an empty folder for this project 
+Step 2 created a virtual environment
+Step 3 created a gitignore file
+step 3. 1 select interpretter from the file
+step 4 installed packages inside the venv
+Packages i installed : 
+Kagglehub, Matplotlib, seaborn, pandas, langchain-community, langchain-openai, python-dotenv, langchain-chroma, transformers, gradio, jupyter notebook, ipywidgetspip 
+
+
+
